@@ -1,7 +1,7 @@
 # 문화관광 빅데이터 공모전
 
 보안의 문제로 데이터는 업로드 하지 못하지만 분석 흐름 및 각 부분의 분석 과정 소개  
-https://github.com/Junoflows/Cultural_Tourism_Contest
+[https://github.com/Junoflows/Cultural_Tourism_Contest](https://github.com/Junoflows/Cultural_Tourism_Contest/blob/main/DATA174_%EB%A7%88%EC%9D%B4%EB%A6%AC%ED%8B%80%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.pdf)
 
 ## 목차
 ### 주제 선정 (분석 및 주제 선정 배경)
